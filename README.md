@@ -1,2 +1,3 @@
 # Recognize-Simpsons-Character
-read the title
+
+This was coded using [this](https://www.kaggle.com/alexattia/the-simpsons-characters-dataset) dataset on kaggle
